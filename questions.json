@@ -1,0 +1,380 @@
+{
+  "heading": "Sentences",
+  "topics": [
+    {
+      "heading": "Sentences",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Which of these is a declarative sentence?",
+          "options": [
+            {
+              "text": "Can you close the window?"
+              
+            },
+            {
+              "text": "The sun is shining brightly."
+            },
+            {
+              "text": "Please turn off the light."
+            },
+            {
+              "text": "What a beautiful painting!"
+            }
+          ],
+          "answer": 1,
+          "explanation": "A declarative sentence states a fact or opinion and ends with a full stop."
+        },
+        {
+          "questionNo": 2,
+          "question": "What type of sentence is this:<br> \"Did you finish your homework?\"",
+          "options": [
+            {
+              "image":"./assests/images/1.jpg",
+              "sound":"./assests/sounds/city.mp3"
+              
+            },
+            {
+              "image":"./assests/images/1.jpg",
+              "sound":"./assests/sounds/city.mp3"
+            },
+            {
+              "image":"./assests/images/1.jpg",
+              "sound":"./assests/sounds/city.mp3"
+            },
+            {
+              "image":"./assests/images/1.jpg",
+              "sound":"./assests/sounds/city.mp3"
+            }
+          ],
+          "answer": 3,
+          "explanation": "Interrogative sentences ask a question and end with a question mark (?)."
+        },
+        {
+          "questionNo": 3,
+          "question": "Which sentence is exclamatory?",
+          "options": [
+            {
+              "text": "I love ice cream!"
+            },
+            {
+              "text": "Can I have some ice cream?"
+            },
+            {
+              "text": "Please give me ice cream."
+            },
+            {
+              "text": "The ice cream is in the freezer."
+            }
+          ],
+          "answer": 0,
+          "explanation": "Exclamatory sentences express strong emotion and end with an exclamation mark (!)."
+        },
+        {
+          "questionNo": 4,
+          "question": "What type of sentence is this:<br> \"Please clean your room.\"",
+          "options": [
+            {
+              "text": "Declarative"
+            },
+            {
+              "text": "Interrogative"
+            },
+            {
+              "text": "Imperative"
+            },
+            {
+              "text": "Exclamatory"
+            }
+          ],
+          "answer": 2,
+          "explanation": "Imperative sentences give a command or make a request."
+        },
+        {
+          "questionNo": 5,
+          "question": "Which sentence is a declarative sentence?",
+          "options": [
+            {
+              "text": "What time does the movie start?"
+            },
+            {
+              "text": "I can’t wait for the weekend!"
+            },
+            {
+              "text": "Bring your books to class."
+            },
+            {
+              "text": "The library closes at 5 PM."
+            }
+          ],
+          "answer": 3,
+          "explanation": "This sentence states a fact, making it declarative. This type of sentence ends with a full stop."
+        },
+        {
+          "questionNo": 6,
+          "question": "What does an interrogative sentence end with?",
+          "options": [
+            {
+              "text": "(.)"
+            },
+            {
+              "text": "(!)"
+            },
+            {
+              "text": "(?)"
+            },
+            {
+              "text": "(,)"
+            }
+          ],
+          "answer": 2,
+          "explanation": "Interrogative sentences ask a question and end with a question mark. For example: “Which colour is your favourite?”"
+        },
+        {
+          "questionNo": 7,
+          "question": "Which of the following is an imperative sentence?",
+          "options": [
+            {
+              "text": "Please be quiet during the movie."
+            },
+            {
+              "text": "Where is my pencil?"
+            },
+            {
+              "text": "I like your new shoes."
+            },
+            {
+              "text": "What a funny joke!"
+            }
+          ],
+          "answer": 0,
+          "explanation": "Imperative sentences give a command or make a request."
+        },
+        {
+          "questionNo": 8,
+          "question": "What kind of sentence is this:<br> \"She is the fastest runner in the class.\"",
+          "options": [
+            {
+              "text": "Declarative"
+            },
+            {
+              "text": "Interrogative"
+            },
+            {
+              "text": "Imperative"
+            },
+            {
+              "text": "Exclamatory"
+            }
+          ],
+          "answer": 0,
+          "explanation": "This sentence simply states a fact. These sentences are like little messengers giving us news about what's happening."
+        },
+        {
+          "questionNo": 9,
+          "question": "A declarative sentence always ends with a question mark (?)",
+          "options": [
+            {
+              "text": "True"
+            },
+            {
+              "text": "False"
+            }
+          ],
+          "answer": 1,
+          "explanation": "Declarative sentences end with a full stop. For example: “The sky is blue.” Interrogative sentences end with a question mark."
+        },
+        {
+          "questionNo": 10,
+          "question": "\"Can you pass me the salt?\" is an imperative sentence.",
+          "options": [
+            {
+              "text": "True"
+            },
+            {
+              "text": "False"
+            }
+          ],
+          "answer": 1,
+          "explanation": "This is an interrogative sentence because it asks a question."
+        },
+        {
+          "questionNo": 11,
+          "question": "Exclamatory sentences express strong feelings and end with an exclamation mark.",
+          "options": [
+            {
+              "text": "True"
+            },
+            {
+              "text": "False"
+            }
+          ],
+          "answer": 0,
+          "explanation": "Exclamatory sentences express strong emotion and end with an exclamation mark."
+        },
+        {
+          "questionNo": 12,
+          "question": "\"She lives in New York\" is an interrogative sentence.",
+          "options": [
+            {
+              "text": "True"
+            },
+            {
+              "text": "False"
+            }
+          ],
+          "answer": 1,
+          "explanation": "This is a declarative sentence because it states a fact."
+        },
+        {
+          "questionNo": 13,
+          "question": "\"Stop talking!\" is an example of an exclamatory sentence.",
+          "options": [
+            {
+              "text": "True"
+            },
+            {
+              "text": "False"
+            }
+          ],
+          "answer": 1,
+          "explanation": "This is an imperative sentence because it gives a command, even though it ends with an exclamation mark."
+        },
+        {
+          "questionNo": 14,
+          "question": "Declarative sentences can express commands or requests.",
+          "options": [
+            {
+              "text": "True"
+            },
+            {
+              "text": "False"
+            }
+          ],
+          "answer": 1,
+          "explanation": "Declarative sentences state facts or opinions, while imperative sentences give commands or requests."
+        },
+        {
+          "questionNo": 15,
+          "question": "\"Wow, that’s a big surprise!\" is an example of a(n) ______ sentence.",
+          "options": [
+            {
+              "text": "Declarative"
+            },
+            {
+              "text": "Interrogative"
+            },
+            {
+              "text": "Imperative"
+            },
+            {
+              "text": "Exclamatory"
+            }
+          ],
+          "answer": 3,
+          "explanation": "This sentence expresses strong emotion and ends with an exclamation mark."
+        },
+        {
+          "questionNo": 16,
+          "question": "______ sentences often end with a question mark.",
+          "options": [
+            {
+              "text": "Declarative"
+            },
+            {
+              "text": "Interrogative"
+            },
+            {
+              "text": "Imperative"
+            },
+            {
+              "text": "Exclamatory"
+            }
+          ],
+          "answer": 1,
+          "explanation": "Interrogative sentences ask questions and end with a question mark."
+        },
+        {
+          "questionNo": 17,
+          "question": "\"She is reading a book\" is a ______ sentence.",
+          "options": [
+            {
+              "text": "Declarative"
+            },
+            {
+              "text": "Interrogative"
+            },
+            {
+              "text": "Imperative"
+            },
+            {
+              "text": "Exclamatory"
+            }
+          ],
+          "answer": 0,
+          "explanation": "This sentence states a fact and it ends with a full stop."
+        },
+        {
+          "questionNo": 18,
+          "question": "\"What time is the movie?\" is an example of a(n) ______ sentence.",
+          "options": [
+            {
+              "text": "Declarative"
+            },
+            {
+              "text": "Interrogative"
+            },
+            {
+              "text": "Imperative"
+            },
+            {
+              "text": "Exclamatory"
+            }
+          ],
+          "answer": 1,
+          "explanation": "This sentence asks a question and ends with a question mark, making it interrogative."
+        },
+        {
+          "questionNo": 19,
+          "question": "Which sentence is a command?",
+          "options": [
+            {
+              "text": "I finished my homework."
+            },
+            {
+              "text": "Where is your book?"
+            },
+            {
+              "text": "Close the door, please."
+            },
+            {
+              "text": "Wow, what a cool car!"
+            }
+          ],
+          "answer": 2,
+          "explanation": "This is an imperative sentence because it gives a command."
+        },
+        {
+          "questionNo": 20,
+          "question": "What kind of sentence is:<br> \"Please sit down quietly\"?",
+          "options": [
+            {
+              "text": "Declarative"
+              
+            },
+            {
+              "text": "Interrogative"
+            },
+            {
+              "text": "Imperative"
+            },
+            {
+              "text": "Exclamatory"
+            }
+          ],
+          "answer": 2,
+          "explanation": "This sentence is giving a command, so it is imperative."
+        }]
+    }
+  ]
+}
